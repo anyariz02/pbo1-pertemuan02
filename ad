@@ -1,0 +1,41 @@
+[33mcommit e8cd7e2c5c40161c5f9870b73afe74d581e0b2d3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: anyariz02 <anyanime.id@gmail.com>
+Date:   Wed Apr 5 12:24:54 2023 +0800
+
+    Buat Output
+
+[33mcommit b937a20af5c0612860458a30e7af17ed0981e5b3[m
+Author: anyariz02 <anyanime.id@gmail.com>
+Date:   Wed Apr 5 12:23:06 2023 +0800
+
+    Buat Input String kedalam Variable
+
+[33mcommit 6140640e063685805a2917191aadc840d333b27e[m
+Author: anyariz02 <anyanime.id@gmail.com>
+Date:   Wed Apr 5 12:21:41 2023 +0800
+
+    Buat Object Scanner
+
+[33mcommit e899b4e1445600a4d8f1cb139b198bdb09c995f3[m
+Author: anyariz02 <anyanime.id@gmail.com>
+Date:   Wed Apr 5 12:19:44 2023 +0800
+
+    Buat File Input Output
+
+[33mcommit f37e0a4b169b332b566cc5e679ce708cff8e9347[m
+Author: anyariz02 <anyanime.id@gmail.com>
+Date:   Wed Apr 5 12:13:34 2023 +0800
+
+    Memanggil method dari banyak Class di package lain
+
+[33mcommit dbb850a2cea7029054348192778b529c7d2fcf47[m
+Author: anyariz02 <anyanime.id@gmail.com>
+Date:   Wed Apr 5 11:57:53 2023 +0800
+
+    Memanggil method dari Class di package lain
+
+[33mcommit 2c23f44c1ed93bc5a8b3e71e34f3eceb4371e254[m
+Author: anyariz02 <anyanime.id@gmail.com>
+Date:   Wed Apr 5 11:55:26 2023 +0800
+
+    Buat Class Main dan Database
